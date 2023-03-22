@@ -1,3 +1,6 @@
+![logo](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
+
+
 <h1 align="center">Hi 👋, I'm Sandeep Pathak</h1>
 <h3 align="center">A Passionate Data Science Aspirant.</h3>
 
